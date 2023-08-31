@@ -6,5 +6,7 @@ public class DemoTest {
 	@Test
 	public void Hello() {
 		System.out.println("welcome");
+		//pull
+		//poll scm
 }
 }
